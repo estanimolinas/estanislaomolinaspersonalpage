@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/about/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/about/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/contact/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/contact/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/projects/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/projects/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/about/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/about/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/about/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/contact/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/contact/"/>
+    </url>
+    <url>
+        <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/projects/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/projects/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://estanimolinas.github.io/estanislaomolinaspersonalpage/projects/"/>
+    </url>
+</urlset>
