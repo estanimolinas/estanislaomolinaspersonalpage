@@ -1,0 +1,67 @@
+site_name: Estanislao Molinas — Relaciones Internacionales / International Relations
+site_url: https://estanimolinas.github.io/estanislaomolinaspersonalpage
+repo_url: https://github.com/estanimolinas/estanislaomolinaspersonalpage
+site_description: Portafolio académico, proyectos y contacto. / Academic portfolio, projects & contact.
+
+site_name: Estanislao Molinas — Relaciones Internacionales / International Relations
+# site_url: https://estanimolinas.github.io/estanislaomolinaspersonalpage
+repo_url: https://github.com/estanimolinas/estanislaomolinaspersonalpage
+site_description: Portafolio académico, proyectos y contacto.
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+  features:
+    - navigation.top
+    - navigation.sections
+
+plugins:
+  - search
+  - i18n:
+      default_language: es
+      docs_structure: folder        # usamos docs/es y docs/en
+      reconfigure_material: true
+      languages:
+        - locale: es
+          name: Español
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+extra_css:
+  - styles/overrides.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Inicio: index.md
+  - Sobre mí: about.md
+  - Proyectos: projects.md
+  - Contacto: contact.md
+
+
+extra:
+  social:
+    - icon: material/email
+      link: mailto:estanislao.molinasir@gmail.com
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/estanislao-molinas-4057ba1b8/
+    - icon: fontawesome/brands/github
+      link: https://github.com/estanimolinas
+
+extra_css:
+  - styles/overrides.css
