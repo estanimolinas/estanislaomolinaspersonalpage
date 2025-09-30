@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/about/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/articulos/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/contact/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/contacto/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/en/projects/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/experiencia/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/es/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/proyectos/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/es/about/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/es/contact/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/articulos/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/es/projects/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/contacto/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/experiencia/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/proyectos/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
 </urlset>
