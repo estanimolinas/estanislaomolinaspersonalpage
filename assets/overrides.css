@@ -1,4 +1,24 @@
-:root{
-  --md-primary-fg-color: #111;
-  --md-accent-fg-color: #888;
+.contact-card {
+  display: grid;
+  gap: .75rem;
+  max-width: 640px;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 12px;
+  background: rgba(255,255,255,.03);
+}
+.contact-card textarea {
+  width: 100%;
+  padding: .75rem;
+  border-radius: 10px;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  background: transparent;
+  color: var(--md-default-fg-color);
+}
+.contact-card button {
+  width: fit-content;
+  padding: .6rem 1rem;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
 }

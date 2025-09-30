@@ -1,43 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>None./</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/articulos/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Nonearticulos/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonearticulos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/articulos/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/contacto/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Nonecontacto/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonecontacto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contacto/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/experiencia/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneexperiencia/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Noneexperiencia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/experiencia/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/proyectos/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneproyectos/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Noneproyectos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/proyectos/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneen/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="None"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/articulos/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneen/articles/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/articles/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/contacto/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneen/contact/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contact/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/experiencia/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneen/experience/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/experience/"/>
     </url>
     <url>
-         <loc>https://estanimolinas.github.io/estanislaomolinaspersonalpage/_backup_20250930_0949/proyectos/</loc>
-         <lastmod>2025-09-30</lastmod>
+        <loc>Noneen/projects/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/"/>
+    </url>
+    <url>
+        <loc>Noneen/articulos/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/articulos/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonearticulos/"/>
+    </url>
+    <url>
+        <loc>Noneen/contacto/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contacto/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonecontacto/"/>
+    </url>
+    <url>
+        <loc>Noneen/experiencia/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/experiencia/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Noneexperiencia/"/>
+    </url>
+    <url>
+        <loc>Noneen/proyectos/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/proyectos/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Noneproyectos/"/>
     </url>
 </urlset>
